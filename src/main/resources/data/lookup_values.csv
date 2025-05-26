@@ -1,0 +1,109 @@
+category,code,display_name,sort_order,active,created_at,updated_at
+id_type,ABHA,ABHA,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+id_type,Aadhaar,Aadhaar,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+id_type,Driver License,Driver License,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+id_type,PAN Card,PAN Card,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,General,General,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,BPL,BPL,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Others,Others,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Destitute,Destitute,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Govt Employee,Govt Employee,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Exemptions,Exemptions,5,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Remand Home,Remand Home,6,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Police Case,Police Case,7,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Staff,Staff,8,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Outside/Private Refferals,Outside/Private Refferals,9,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Deluxe/Private Ward,Deluxe/Private Ward,10,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Student CHS,Student CHS,11,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,MHIS,MHIS,12,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,PWD,PWD,13,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+billing_type,Senior Citizen,Senior Citizen,14,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+title,Mr,Mr,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+title,Mrs,Mrs,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+title,Ms,Ms,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+title,Dr,Dr,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+title,Prof,Prof,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+title,Master,Master,5,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+gender,Male,Male,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+gender,Female,Female,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+gender,Others,Others,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+gender,Transgender,Transgender,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+gender,Undisclosed,Undisclosed,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,F/O,F/O,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,D/O,D/O,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,H/O,H/O,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,S/O,S/O,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,W/O,W/O,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,M/O,M/O,5,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,C/O,C/O,6,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,B/O,B/O,7,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,Spouse,Spouse,8,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,Parent,Parent,9,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,Child,Child,10,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,Sibling,Sibling,11,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,Gaurdian,Gaurdian,12,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+relationship_with_gaurdian,Others,Others,13,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+blood_group,O+,O+,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+blood_group,B+,B+,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+blood_group,A+,A+,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+blood_group,AB+,AB+,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+blood_group,O-,O-,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+blood_group,B-,B-,5,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+blood_group,A-,A-,6,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+blood_group,AB-,AB-,7,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+marital_status,Single,Single,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+marital_status,Married,Married,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+marital_status,Divorced,Divorced,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+marital_status,Widowed,Widowed,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+marital_status,Seperated,Seperated,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+preffered_language,English,English,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+preffered_language,Hindi,Hindi,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+preffered_language,Khasi,Khasi,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+citizenship,CSV FILE,CSV FILE,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+religion,Christianity,Christianity,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+religion,Hinduism,Hinduism,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+religion,Islam,Islam,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+religion,Sikhism,Sikhism,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+religion,Buddhism,Buddhism,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+religion,jainism,jainism,5,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+religion,Muslim,Muslim,6,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+religion,Others,Others,7,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+caste,SC,SC,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+caste,ST,ST,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+caste,General,General,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+caste,OBC,OBC,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+caste,Others,Others,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Govt Employee,Govt Employee,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Private Sector,Private Sector,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Business Owner,Business Owner,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Self-Employed,Self-Employed,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Farmer,Farmer,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Student,Student,5,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Homemaker,Homemaker,6,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Retired,Retired,7,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Unemployed,Unemployed,8,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Bank Employee,Bank Employee,9,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Carpenter,Carpenter,10,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Coolie,Coolie,11,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Doctor,Doctor,12,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Driver,Driver,13,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Engineer,Engineer,14,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Mechanic,Mechanic,15,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Nurse,Nurse,16,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Painter,Painter,17,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Pensioner,Pensioner,18,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Politician,Politician,19,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Tailor,Tailor,20,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+occupation,Others,Others,21,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Illiterate,Illiterate,0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Primary,Primary,1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Secondary,Secondary,2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Higher Secondary,Higher Secondary,3,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Garduate,Garduate,4,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Post Graduate,Post Graduate,5,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Doctorate,Doctorate,6,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Proffesional,Proffesional,7,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+education,Others,Others,8,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+annual_income_range,"0 to 19,999","0 to 19,999",0,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+annual_income_range,"20,000 to 39,999","20,000 to 39,999",1,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
+annual_income_range,"40,000 and Above","40,000 and Above",2,True,2025-05-19 13:02:31.958931,2025-05-19 13:02:31.959481
