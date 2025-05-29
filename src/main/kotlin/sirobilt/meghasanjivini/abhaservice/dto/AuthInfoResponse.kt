@@ -25,9 +25,26 @@ class AuthInfoResponse {
 
 class AbhaAadhaarRequestDTO {
     var aadhaarNumber: String? = null
+
+    // Default constructor for Jackson
+    constructor()
+
+    // Constructor with parameters
+    constructor(aadhaarNumber: String?) {
+        this.aadhaarNumber = aadhaarNumber
+    }
 }
 
 class AbhaAadhaarOtpResponseDTO {
     var txnId: String? = null
     var message: String? = null
+
+    // Default constructor for Jackson
+    constructor()
+
+    // Constructor with parameters
+    constructor(txnId: String?, message: String?) {
+        this.txnId = txnId
+        this.message = message
+    }
 }

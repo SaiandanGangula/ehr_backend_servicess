@@ -31,3 +31,4 @@ data class EnrollByOtpRequest(
     val otp: String,
     val mobile: String? = null
 )
+
